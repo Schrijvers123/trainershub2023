@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MessDetectorOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCSFixerOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCodeSnifferOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="" />
+    </include_path>
+  </component>
+  <component name="PhpInterpreters">
+    <interpreters>
+      <interpreter id="6069b29d-c6f2-48a3-8f10-8a1ec3197573" name="master_rvcdpcqwxf@128.199.36.242:22 password" home="sshConfig://DATA" debugger_id="php.debugger.XDebug">
+        <remote_data INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" SSH_CONFIG_ID="f22aa5f0-2f8a-4ac8-bb07-d7484658c5dc" SSH_CONFIG_NAME="master_rvcdpcqwxf@128.199.36.242:22 password" SSH_CREDENTIALS_ID="sshConfig://master_rvcdpcqwxf@128.199.36.242:22 password" />
+      </interpreter>
+    </interpreters>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.1" />
+  <component name="PhpStanOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PsalmOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+</project>

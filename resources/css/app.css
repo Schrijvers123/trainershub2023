@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+[x-cloak] {
+    display: none;
+}
+
+.login-cover {
+    height: calc(100vh - 500px);
+}
+
+.inactive {
+    --tw-ring-color: rgb(220 38 38 / 0.1);
+    --tw-text-opacity: 1;
+    color: rgb(185 28 28 / var(--tw-text-opacity));
+    --tw-bg-opacity: 1;
+    background-color: rgb(254 242 242 / var(--tw-bg-opacity));
+}
+.active {
+    --tw-ring-color: rgb(22 163 74 / 0.2);
+    --tw-text-opacity: 1;
+    color: rgb(21 128 61 / var(--tw-text-opacity));
+    --tw-bg-opacity: 1;
+    background-color: rgb(240 253 244 / var(--tw-bg-opacity));
+}
+.onhold {
+    --tw-ring-color: rgb(202 138 4 / 0.2);
+    --tw-text-opacity: 1;
+    color: rgb(133 77 14 / var(--tw-text-opacity));
+    --tw-bg-opacity: 1;
+    background-color: rgb(254 252 232 / var(--tw-bg-opacity));
+}
+.trash {
+    --tw-ring-color: rgb(107 114 128 / 0.1);
+    --tw-text-opacity: 1;
+    color: rgb(75 85 99 / var(--tw-text-opacity));
+    --tw-bg-opacity: 1;
+    background-color: rgb(249 250 251 / var(--tw-bg-opacity));
+}

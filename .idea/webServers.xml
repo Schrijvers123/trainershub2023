@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1256319e-5763-45e8-9f80-82b16c515e0b" name="Cloud Server" url="https://www.trainerhub.nl">
+        <fileTransfer rootFolder="/applications/ryzbdvkkbg/public_html" accessType="SFTP" host="128.199.36.242" port="22" sshConfigId="f22aa5f0-2f8a-4ac8-bb07-d7484658c5dc" sshConfig="master_rvcdpcqwxf@128.199.36.242:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="60fa876e-5eb2-487a-b27a-5e11938d63d6" name="Dev">
+        <fileTransfer rootFolder="/applications/ryzbdvkkbg/public_html" accessType="SFTP" host="128.199.36.242" port="22" sshConfigId="f22aa5f0-2f8a-4ac8-bb07-d7484658c5dc" sshConfig="master_rvcdpcqwxf@128.199.36.242:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

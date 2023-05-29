@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="Cloud Server" remoteFilesAllowedToDisappearOnAutoupload="false" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="Cloud Server">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/bootstrap" />
+            <excludedPath path="/.editorconfig" />
+            <excludedPath path="/.env.example" />
+            <excludedPath path="/.gitattributes" />
+            <excludedPath path="/.gitignore" />
+            <excludedPath path="/artisan" />
+            <excludedPath path="/composer.lock" />
+            <excludedPath path="/README.md" />
+            <excludedPath path="/node_modules" />
+            <excludedPath path="/vendor/phpoption" />
+            <excludedPath path="/vendor/hamcrest" />
+            <excludedPath path="/vendor/mobiledetect" />
+            <excludedPath path="/vendor/jenssegers" />
+            <excludedPath path="/vendor/phar-io" />
+            <excludedPath path="/vendor/ralouphie" />
+            <excludedPath path="/vendor/nesbot" />
+            <excludedPath path="/vendor/spatie" />
+            <excludedPath path="/vendor/bin" />
+            <excludedPath path="/vendor/fruitcake" />
+            <excludedPath path="/vendor/graham-campbell" />
+            <excludedPath path="/vendor/webmozart" />
+            <excludedPath path="/vendor/sebastian" />
+            <excludedPath path="/vendor/monolog" />
+            <excludedPath path="/vendor/dflydev" />
+            <excludedPath path="/vendor/filp" />
+            <excludedPath path="/vendor/egulias" />
+            <excludedPath path="/vendor/vlucas" />
+            <excludedPath path="/vendor/psy" />
+            <excludedPath path="/vendor/tijsverkoyen" />
+            <excludedPath path="/vendor/pragmarx" />
+            <excludedPath path="/vendor/laravel" />
+            <excludedPath path="/vendor/livewire" />
+            <excludedPath path="/vendor/nikic" />
+            <excludedPath path="/vendor/theseer" />
+            <excludedPath path="/vendor/league" />
+            <excludedPath path="/vendor/voku" />
+            <excludedPath path="/vendor/nette" />
+            <excludedPath path="/vendor/psr" />
+            <excludedPath path="/vendor/bacon" />
+            <excludedPath path="/vendor/ramsey" />
+            <excludedPath path="/vendor/guzzlehttp" />
+            <excludedPath path="/vendor/mockery" />
+            <excludedPath path="/vendor/doctrine" />
+            <excludedPath path="/vendor/dragonmantank" />
+            <excludedPath path="/vendor/nunomaduro" />
+            <excludedPath path="/vendor/brick" />
+            <excludedPath path="/vendor/fakerphp" />
+            <excludedPath path="/vendor/paragonie" />
+            <excludedPath path="/vendor/jaybizzle" />
+            <excludedPath path="/vendor/myclabs" />
+            <excludedPath path="/vendor/dasprid" />
+            <excludedPath path="/vendor/composer" />
+            <excludedPath path="/vendor/symfony" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="Dev">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
